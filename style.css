@@ -1,0 +1,76 @@
+.gallery img{
+    width:45%;   
+}
+#menu a{
+  text-align: center;  
+   font-size: 18px;
+   border-collapse: collapse;  
+   color: bisque;
+   text-decoration: none;
+   letter-spacing: 1px;
+   line-height: 65px;
+   text-transform: uppercase;
+    display: block;
+    border: none;
+    padding: 0 35px;
+}
+#menu a:hover{
+    background-color: darkslategray;
+}
+
+table,th,td{
+   color: darkseagreen;
+   border-collapse: collapse; 
+   border: 1px solid #000;
+   padding: inherit;
+   color: bisque;
+}
+table{
+    width: 500px;
+}
+body{
+    font-size: 20px;
+    font-style: oblique;
+    background-color: darkcyan;
+    align-content: space-around;
+    text-decoration: inherit;
+    font-family: sans-serif;
+    image-resolution: snap;
+}
+th,td{
+    padding: 10px;
+    color: black;
+}
+h1{
+   background-color: darkgoldenrod;
+    font-size: 60px;
+    color: darkslategray;
+}
+h2,h3,h4,h5,h6{
+    background-color: darkgoldenrod;
+    font-size: 38px;
+    padding: 5px;
+}
+th{
+    text-align: left;
+}
+p{
+  color: bisque;
+ font-size: 32px;   
+}
+tr:nth-child(even){
+    background-color: darkcyan;
+}
+tr:nth-child(odd){
+   background-color: dimgray;
+}
+caption{
+    font-size:30px;
+    text-align: left;  
+}
+
+
+  
+
+
+    
